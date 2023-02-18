@@ -1,0 +1,26 @@
+_repo: Frank-Allen-at-Gold-Fork-b-Locating-the-Lost-Claim_69968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Graham B.
+    gutenberg_agent_id: '2243'
+    url: http://www.gutenberg.org/2009/agents/2243
+description: ''
+gutenberg_issued: '2023-02-06'
+identifiers:
+  gutenberg: '69968'
+language: en
+pgterms:marc905: 20220621174647forbes
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: David Edwards, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGarden City Publishing, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frank Allen at Gold Fork : $b Locating the Lost Claim'
+url: http://www.gutenberg.org/ebooks/69968
